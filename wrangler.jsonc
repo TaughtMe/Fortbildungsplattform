@@ -1,0 +1,8 @@
+{
+  // Statische Website: Cloudflare liefert die Dateien aus diesem Ordner direkt aus.
+  "name": "fortbildungsplattform",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./"
+  }
+}
